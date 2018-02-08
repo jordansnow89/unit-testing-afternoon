@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-afternoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jordansnow89/unit-testing-afternoon.git",
+  "author": "Jordan Snow <snowstorm1989@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
